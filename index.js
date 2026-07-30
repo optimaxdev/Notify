@@ -99,7 +99,7 @@ async function monitorChanges(url) {
 // Check every 5 seconds
 setInterval(() => {
   monitorChanges(process.env.URL);
-}, fourHours);
+}, 10000);
 
 // Run immediately on startup
 monitorChanges(process.env.URL);
