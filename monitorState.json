@@ -1,0 +1,49 @@
+{
+  "previousData": [
+    {
+      "coupon": "30% Off Frames",
+      "code": "SAVE30"
+    },
+    {
+      "coupon": "40% Off Designer Markdowns",
+      "code": "DESIGNER40"
+    },
+    {
+      "coupon": "Buy One Get One Free",
+      "code": "BOGOFREE"
+    },
+    {
+      "coupon": "50% Off Progressive Lenses",
+      "code": "PROG50"
+    },
+    {
+      "coupon": "50% Off Lenses & Upgrades",
+      "code": "LENSES50"
+    },
+    {
+      "coupon": "50% Discount On Frames",
+      "code": "WELCOME50"
+    },
+    {
+      "coupon": "30% Off Contacts + $50 Credit",
+      "code": "CONTACTS30"
+    },
+    {
+      "coupon": "Free Glasses with Contacts Purchase",
+      "code": "FREE-GLASSES"
+    },
+    {
+      "coupon": "Extra $10 Off Sunglasses Orders",
+      "code": "SUNNIES10"
+    },
+    {
+      "coupon": "30% Off Safety Eyewear",
+      "code": "SAFETY30"
+    },
+    {
+      "coupon": "25% Off Lenses for Sale Frames",
+      "code": "LENSES25"
+    }
+  ],
+  "lastNotifiedHash": "[{\"coupon\":\"30% Off Frames\",\"code\":\"SAVE30\"},{\"coupon\":\"40% Off Designer Markdowns\",\"code\":\"DESIGNER40\"},{\"coupon\":\"Buy One Get One Free\",\"code\":\"BOGOFREE\"},{\"coupon\":\"50% Off Progressive Lenses\",\"code\":\"PROG50\"},{\"coupon\":\"50% Off Lenses & Upgrades\",\"code\":\"LENSES50\"},{\"coupon\":\"50% Discount On Frames\",\"code\":\"WELCOME50\"},{\"coupon\":\"30% Off Contacts + $50 Credit\",\"code\":\"CONTACTS30\"},{\"coupon\":\"Free Glasses with Contacts Purchase\",\"code\":\"FREE-GLASSES\"},{\"coupon\":\"Extra $10 Off Sunglasses Orders\",\"code\":\"SUNNIES10\"},{\"coupon\":\"30% Off Safety Eyewear\",\"code\":\"SAFETY30\"},{\"coupon\":\"25% Off Lenses for Sale Frames\",\"code\":\"LENSES25\"}]"
+}
